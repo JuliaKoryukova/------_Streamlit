@@ -50,4 +50,4 @@
 1. Клонируйте этот репозиторий:
    
    ```bash
-   git clone https://github.com/JuliaKoryukova/------_Streamlit.git
+   git clone https://github.com/JuliaKoryukova/MedHelp_Streamlit.git
